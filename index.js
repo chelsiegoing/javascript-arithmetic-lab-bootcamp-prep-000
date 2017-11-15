@@ -25,3 +25,6 @@ dec(55)
 function makeInt(string) {
    return parseInt(string,10)
 }
+function preserveDecimal(string) {
+  return parseInt(string,10)
+}
