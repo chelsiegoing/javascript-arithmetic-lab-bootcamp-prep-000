@@ -28,3 +28,6 @@ function makeInt(string) {
 function preserveDecimal(string) {
   return parseInt(string,10)
 }
+function preserveDecimal(string) {
+  return parseInt(decimal,10)
+}
